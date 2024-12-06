@@ -2249,7 +2249,9 @@ h6, .h6 {
   text-transform: uppercase; }
 
 p {
-  line-height: 1.61em; text-align: justify; }
+  line-height: 1.61em; 
+  /* text-align: justify;  */
+}
   .description p, p.description {
     font-size: 1.14em; }
 
@@ -5216,7 +5218,7 @@ Created using IcoMoon - icomoon.io
   margin-bottom: 0; }
 
 .cc-education .cc-education-header {
-  padding-top: 60px;
+  padding-top: 42px;
   padding-right: 0;
   text-align: center;
   color: #fff; }
