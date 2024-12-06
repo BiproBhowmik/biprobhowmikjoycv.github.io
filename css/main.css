@@ -2249,7 +2249,7 @@ h6, .h6 {
   text-transform: uppercase; }
 
 p {
-  line-height: 1.61em; }
+  line-height: 1.61em; text-align: justify; }
   .description p, p.description {
     font-size: 1.14em; }
 
@@ -5207,7 +5207,7 @@ Created using IcoMoon - icomoon.io
 .cc-experience .cc-experience-header {
   padding-top: 60px;
   padding-right: 0;
-  text-align: center;
+  /* text-align: center; */
   color: #fff;
   text-transform: uppercase; }
 
